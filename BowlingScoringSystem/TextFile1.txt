@@ -1,0 +1,4 @@
+﻿game logic -> play through each round
+game setup
+unit testing
+write results too file

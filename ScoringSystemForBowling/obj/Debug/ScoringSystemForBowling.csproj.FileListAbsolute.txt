@@ -1,0 +1,7 @@
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\bin\Debug\ScoringSystemForBowling.exe.config
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\bin\Debug\ScoringSystemForBowling.exe
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\bin\Debug\ScoringSystemForBowling.pdb
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\obj\Debug\ScoringSystemForBowling.csprojAssemblyReference.cache
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\obj\Debug\ScoringSystemForBowling.csproj.CoreCompileInputs.cache
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\obj\Debug\ScoringSystemForBowling.exe
+C:\Users\akuma\source\repos\BowlingScoringSystem\ScoringSystemForBowling\obj\Debug\ScoringSystemForBowling.pdb

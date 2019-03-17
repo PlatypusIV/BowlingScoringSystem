@@ -1,0 +1,4 @@
+﻿Input amount of players/player names+
+input score
+keep/present score
+Testing
